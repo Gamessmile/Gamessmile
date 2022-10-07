@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gamessmile</h1>
-<h3 align="center">A University student</h3>
+<h1 align="left">Hi!\nGamessmile here!</h1>
+<h3 align="left">A University student</h3>
 
 <img align="center" alt="coding" width="500" src=https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif>
 
