@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gamessmile</h1>
 <h3 align="center">A University student</h3>
 
-<img src=https://i.ibb.co/2ZyQvV2/ezgif-2-807073cf31.gif></p>
+<img align="left" alt="coding" width="200" src=https://i.ibb.co/2ZyQvV2/ezgif-2-807073cf31.gif>
 <img src=https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gif></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamessmile&label=Profile%20views&color=0e75b6&style=flat" alt="gamessmile" /> </p>
