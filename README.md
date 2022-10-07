@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://instagram.com/_gamessmile_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gamessmile_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gamessmile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamessmile" height="30" width="40" /></a>
-<a href="https://tiktok.com/_gamessmile_" target="blank"><img align=center" src=https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" alt="_gamessmile_" height="30" width"40" /></a>
+<a href="https://tiktok.com/@_gamessmile_" target="blank"><img align=center" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/media_social_tiktok_icon_124256.png" alt="_gamessmile_" height="30" width"40" /></a>
 </p>
 
 <h3 align="left">I programm in:</h3>
