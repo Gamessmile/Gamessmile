@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamessmile&label=Profile%20views&color=a926d9&style=plastic" alt="gamessmile" /> </p>
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
+
 <h3 align="right">My Socials</h3>
 <p align="right">
 <a href="https://instagram.com/_gamessmile_" target="blank"><img align=center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/instagram_button_icon_151849.png" alt="_gamessmile_" height="30" width"40" /></a>
@@ -17,4 +19,4 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 <hr>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&align=right)
+
