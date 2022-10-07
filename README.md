@@ -3,7 +3,7 @@
 
 <img align="center" alt="coding" width="500" src=https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamessmile&label=Profile%20views&color=0e75b6&style=flat" alt="gamessmile" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamessmile&label=Profile%20views&color=a926d9&style=plastic" alt="gamessmile" /> </p>
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
