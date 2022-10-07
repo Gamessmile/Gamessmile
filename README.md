@@ -2,7 +2,7 @@
 <h3 align="left">A <a href=http://web.dmi.unict.it/corsi/l-31>University</a> student</h3>
 <hr>
 
-<img align="center" alt="coding" width="800" src=https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif>
+<img align="center" alt="coding" width="400" src=https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamessmile&label=Profile%20views&color=a926d9&style=plastic" alt="gamessmile" /> </p>
 
