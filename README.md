@@ -15,6 +15,7 @@
 <p align="right">
 <a href="https://steamcommunity.com/id/iocomando/" target="blank"><img align=center" src="https://cdn.icon-icons.com/icons2/1293/PNG/512/2363211-game-gaming-play-steam-valve_85503.png" alt="Gamessmile" height="40" width"50" /></a>
 <a href="https://discord.com/users/327529848941576194" target="blank"><img align=center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="Gamessmile - Legion" height="40" width"50" /></a>
+<a href="https://t.me/Gamessmile" target="blank"><img align=center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png" alt="Gamessmile" height="40" width"50" /></a>
 </p>
 
 <h3 align="left">I programm in:</h3>
