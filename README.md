@@ -14,6 +14,7 @@
 </p>
 <p align="right">
 <a href="https://steamcommunity.com/id/iocomando/" target="blank"><img align=center" src="https://cdn.icon-icons.com/icons2/1293/PNG/512/2363211-game-gaming-play-steam-valve_85503.png" alt="_gamessmile_" height="40" width"50" /></a>
+<a href="https://discord.com/users/327529848941576194" target="blank"><img align=center" src="https://icon-icons.com/it/icona/discordia/130958" alt="_gamessmile_" height="40" width"50" /></a>
 </p>
 
 <h3 align="left">I programm in:</h3>
