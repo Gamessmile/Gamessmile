@@ -13,7 +13,7 @@
 <a href="https://tiktok.com/@_gamessmile_" target="blank"><img align=center" src="https://cdn.icon-icons.com/icons2/3007/PNG/512/tiktok_logo_icon_188431.png" alt="_gamessmile_" height="40" width"50" /></a>
 </p>
 <p align="right">
-<a href="https://steamcommunity.com/id/iocomando/" target="blank"><img align=center" src="https://cdn.icon-icons.com/icons2/3027/PNG/512/steam_icon_188906.png" alt="_gamessmile_" height="40" width"50" /></a>
+<a href="https://steamcommunity.com/id/iocomando/" target="blank"><img align=center" src="https://cdn.icon-icons.com/icons2/1293/PNG/512/2363211-game-gaming-play-steam-valve_85503.png" alt="_gamessmile_" height="40" width"50" /></a>
 </p>
 
 <h3 align="left">I programm in:</h3>
