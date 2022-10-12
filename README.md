@@ -23,4 +23,6 @@
 <a href="https://processing.org/" target="blank"><img align=center" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="Processing" height="40" width"50" /></a>
 <hr>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
 
