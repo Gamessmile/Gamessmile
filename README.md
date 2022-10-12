@@ -1,11 +1,10 @@
 <h1 align="left">Gamessmile here!</h1></p><h5 align="left">A <a href=http://web.dmi.unict.it/corsi/l-31>University</a> student</h5>
 
-<img align="left" alt="coding" width="400" src=https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif>
+<img align="left" alt="coding" width="360" src=https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamessmile&label=Profile%20views&color=a926d9&style=plastic" alt="gamessmile" /> </p>
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
 ![Gamessmile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamessmile&show_icons=true&theme=radical)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
+
 
 <h3 align="left">My Socials</h3>
 <p align="left">
@@ -23,6 +22,8 @@
 <a href="https://it.wikipedia.org/wiki/C%2B%2B" target="blank"><img align=center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width"50" /></a>
 <a href="https://processing.org/" target="blank"><img align=center" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="Processing" height="40" width"50" /></a>
 <hr>
+
+<p align="right"> <img width="100" src="https://komarev.com/ghpvc/?username=gamessmile&label=Profile%20views&color=a926d9&style=plastic" alt="gamessmile" /> </p>
 
 
 
