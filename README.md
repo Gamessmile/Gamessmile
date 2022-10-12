@@ -1,6 +1,6 @@
 <h1 align="left">Gamessmile here!</h1></p><h5 align="left">A <a href=http://web.dmi.unict.it/corsi/l-31>University</a> student</h5>
 
-<img align="left" alt="coding" width="500" src=https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif>
+<img align="left" alt="coding" width="480" src=https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif>
 
 ![Gamessmile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamessmile&show_icons=true&theme=radical)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
