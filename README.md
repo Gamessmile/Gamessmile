@@ -1,4 +1,4 @@
-<h1 align="left">Gamessmile here!</h1></p><h5 align="left">A <a href=http://web.dmi.unict.it/corsi/l-31>Universitary</a> student</h5>
+<h1 align="left">Gamessmile here!</h1></p><h5 align="left">A Universitary student, <a href=http://web.dmi.unict.it/corsi/l-31>@UNICT</a> student</h5>
 
 <img align="left" alt="coding" width="495" src=https://i.ibb.co/GvLfBvq/gifmia.gif>
 
