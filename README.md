@@ -3,7 +3,7 @@
 <img align="left" alt="coding" width="495" src=https://i.ibb.co/GvLfBvq/gifmia.gif>
 
 ![Gamessmile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamessmile&show_icons=true&theme=radical)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Gamessmile&count=1)
 
 
 <h3 align="left">My Socials</h3>
