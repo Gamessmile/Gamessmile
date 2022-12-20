@@ -23,7 +23,7 @@
 <a href="https://processing.org/" target="blank"><img align=center" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="Processing" height="40" width"50" /></a>
 <hr>
 
-<p align="right"> <img width="100" src="https://komarev.com/ghpvc/?username=gamessmile&label=Profile%20views&color=a926d9&style=plastic" alt="gamessmile" /> </p>
+<p align="right"> <img width="100" src="https://komarev.com/ghpvc/?username=gamessmile&label=Profile%20views&color=a926d9&style=for-the-badge" alt="gamessmile" /> </p>
 
 
 
