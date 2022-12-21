@@ -13,7 +13,7 @@ Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that
 ![](https://github-profile-trophy.vercel.app/?username=Gamessmile&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-<h3 align="left">My Socials</h3>
+## 📱 My Socials
 <p align="left">
 <a href="https://instagram.com/_gamessmile_" target="blank"><img align=center" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="_gamessmile_" height="40" width"50" /></a>
 <a href="https://www.youtube.com/channel/UCNpOZ-9ZIvM6wcIyBqYyIdQ" target="blank"><img align=center" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579609-yumminkysocialmedia08_83079.png" alt="_gamessmile_" height="40" width"50" /></a>
@@ -25,7 +25,7 @@ Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that
 <a href="https://t.me/Gamessmile" target="blank"><img align=center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png" alt="Gamessmile" height="40" width"50" /></a>
 </p>
 
-<h3 align="left">Skills:</h3>
+## 🎓 Skills
 <a href="https://it.wikipedia.org/wiki/C%2B%2B" target="blank"><img align=center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width"50" /></a>
 <a href="https://processing.org/" target="blank"><img align=center" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="Processing" height="40" width"50" /></a>
 
