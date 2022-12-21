@@ -6,7 +6,9 @@ Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that
 
 <img align="left" alt="coding" width="495" src=https://i.ibb.co/GvLfBvq/gifmia.gif>
 
+
 ![Gamessmile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamessmile&show_icons=true&theme=radical)
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4le4a9o9acrcyandrfkxl06ko&count=1)
 
 ## 🏆 GitHub Trophies
