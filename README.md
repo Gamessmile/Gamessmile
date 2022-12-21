@@ -26,7 +26,8 @@ Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that
 </p>
 
 ## 🎓 Skills
-<a href="https://it.wikipedia.org/wiki/C%2B%2B" target="blank"><img align=center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width"50" /></a>
+<p align= "left">
+ <a href="https://it.wikipedia.org/wiki/C%2B%2B" target="blank"><img align=center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width"50" /></a>
 <a href="https://processing.org/" target="blank"><img align=center" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="Processing" height="40" width"50" /></a>
 
 ### ✍️ Random Dev Quote
