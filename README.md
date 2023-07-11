@@ -10,7 +10,8 @@ Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that
 
 
 
-![Gamessmile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamessmile&show_icons=true&theme=radical)
+<!-- ![Gamessmile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamessmile&show_icons=true&theme=radical) -->
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4le4a9o9acrcyandrfkxl06ko&count=1)
 
