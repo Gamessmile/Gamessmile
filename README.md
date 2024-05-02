@@ -4,6 +4,9 @@
 
 Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that sets me a high level of challenge! I love to complicate my life in order to make the code unique with an easily readable main! I am currently studying computer science at the <a href=http://web.dmi.unict.it/corsi/l-31>University of Catania</a> and I am ready for new challenges.
 <br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamessmile&show_icons=true&theme=radical)
+
+
 ![Gamessmile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamessmile&show_icons=true&theme=radical)
 <br>
 
