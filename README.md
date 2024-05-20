@@ -19,7 +19,7 @@ Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that
  <a href="https://it.wikipedia.org/wiki/C%2B%2B" target="blank"><img align=center src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="C++" height="40" /></a>
  <a href="https://it.wikipedia.org/wiki/java" target="blank"><img align=center src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java" height="40" /></a>
  <a href="https://processing.org/" target="blank"><img align=center src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="Processing" height="40" /></a>
- <a href="https://it.wikipedia.org/wiki/Structured_Query_Language" target="blank"><img align=center src="https://seeklogo.com/images/S/sql-logo-C370DEA066-seeklogo.com.png" alt="SQL" height="30" width="50"/></a>
+ <a href="https://it.wikipedia.org/wiki/Structured_Query_Language" target="blank"><img align=center src="https://seeklogo.com/images/S/sql-logo-C370DEA066-seeklogo.com.png" alt="SQL" height="30" width="60"/></a>
 </p>
 </details>
 
