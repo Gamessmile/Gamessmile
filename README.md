@@ -6,7 +6,7 @@ Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that
 <br><br>
 
 <details><summary>💠GitHub Stats && Most used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Gamessmile&show_icons=true&theme=radical" height="234">
+<img src="https://github-readme-stats.vercel.app/api?username=Gamessmile&show_icons=true&theme=radical" height="200">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamessmile&show_icons=true&theme=radical"></img>
 </details>
 
