@@ -25,8 +25,9 @@ Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that
 <details>
 <summary>✨ Front End</summary>
 <p align= "left">
-  <a href="https://it.wikipedia.org/wiki/HTML" target="blank"><img align=center src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="HTML" height="40" /></a>
+  <a href="https://it.wikipedia.org/wiki/HTML" target="blank"><img align=center src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="HTML" height="40"/></a>
   <a href="https://it.wikipedia.org/wiki/CSS" target="blank"><img align=center src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS" height="40" /></a>
+  <a href="https://it.wikipedia.org/wiki/JavaScript" target="blank"><img align=center src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" alt="JavaScript" height="40" /></a>
 </details>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4le4a9o9acrcyandrfkxl06ko&count=1)
