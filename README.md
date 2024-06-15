@@ -9,8 +9,8 @@ Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that
 <summary>📖What am I studying right now?</summary>
  <br>
  <ul>
-   <li><b>Web Development:</b> <a href="https://nodejs.org/en" target="blank">Node.js</a></li>
-   <li><b>Mobile Programming:</b> <a href="https://developer.android.com/studio?hl=it">Android Studio</a></li>
+   <li><b>📄Web Development:</b> <a href="https://nodejs.org/en" target="blank">Node.js</a></li>
+   <li><b>📱Mobile Programming:</b> <a href="https://developer.android.com/studio?hl=it">Android Studio</a></li>
  </ul>
 </details>
 
