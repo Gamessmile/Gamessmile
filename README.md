@@ -5,6 +5,17 @@
 Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that sets me a high level of challenge! I love to complicate my life in order to make the code unique with an easily readable main! I am currently studying computer science at the <a href=http://web.dmi.unict.it/corsi/l-31>University of Catania</a> and I am ready for new challenges.
 <br><br>
 
+<details>
+<summary>📖What am I studying right now?</summary>
+ <br>
+ <ul>
+   <li><b>Web Development:</b> <a href="https://nodejs.org/en" target="blank">Node.js</a></li>
+   <li><b>Mobile Programming:</b> <a href="https://developer.android.com/studio?hl=it">Android Studio</a></li>
+ </ul>
+</details>
+
+
+
 <details><summary>💠Most used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamessmile&show_icons=true&theme=radical"></img>
 </details>
