@@ -9,7 +9,7 @@ Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that
 <summary>📖What am I studying right now?</summary>
  <br>
  <ul>
-   <li><b>📱Mobile Programming:</b> <a href="https://developer.android.com/studio?hl=it">Android Studio</a></li>
+    
  </ul>
 </details>
 
@@ -44,6 +44,15 @@ Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that
 <summary>🌑 Back End</summary>
 <p align= "left">
   <a href="https://it.wikipedia.org/wiki/Node.js" target="blank"><img align=center src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NODE.JS" height="40"/></a>
+
+</details>
+
+<details>
+<summary>🛠️ Tools</summary>
+<p align= "left">
+  <a href="https://visualstudio.microsoft.com/it/" target="blank"><img align=center src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="Visual Studio Code" height="40"/></a>
+  <a href="https://github.com/" target="blank"><img align=center src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="GitHub" height="40"/></a>
+  <a href="https://developer.android.com/studio?hl=it" target="blank"><img align=center src="https://seeklogo.com/images/A/android-studio-2023-logo-0DAB29430B-seeklogo.com.png" alt="Android Studio" height="40"/></a>
 
 </details>
 
