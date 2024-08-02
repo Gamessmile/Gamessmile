@@ -9,7 +9,7 @@ Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that
 <summary>📖What am I studying right now?</summary>
  <br>
  <ul>
-    
+     <li>🔢 <a href="https://www.youmath.it/lezioni/analisi-matematica.html" target="blank">Analisi 1</a></li>
  </ul>
 </details>
 
