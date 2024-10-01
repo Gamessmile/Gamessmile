@@ -10,6 +10,9 @@ Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that
  <br>
  <ul>
      <li>🔢 <a href="https://www.youmath.it/lezioni/analisi-matematica.html" target="blank">Analisi 1</a></li>
+     <li>🔢² <a href="https://www.youmath.it/lezioni/analisi-due.html" target="blank">Analisi 2</a></li>
+     <li>⌨️ <a [href="https://web.dmi.unict.it/corsi/l-31/insegnamenti?seuid=6E4255BA-E079-4B6E-B8BC-879CC85E2B36" target="blank">Algoritmi e Laboratorio</a></li>
+     <li>🧠 <a href="https://web.dmi.unict.it/corsi/lm-18/insegnamenti/?cod=16574" target="blank">Intelligenza Artificiale</a></li>
  </ul>
 </details>
 
