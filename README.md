@@ -47,6 +47,9 @@ Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that
 <summary>🌑 Back End</summary>
 <p align= "left">
   <a href="https://it.wikipedia.org/wiki/Node.js" target="blank"><img align=center src="https://cdn-icons-png.flaticon.com/512/15484/15484303.png" alt="NODE.JS" height="40"/></a>
+  <a href="https://www.php.net" target="blank"><img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/500px-PHP-logo.svg.png" alt="PHP" height="40"/></a>
+
+
 
 </details>
 
@@ -55,7 +58,7 @@ Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that
 <p align= "left">
   <a href="https://visualstudio.microsoft.com/it/" target="blank"><img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40"/></a>
   <a href="https://github.com/" target="blank"><img align=center src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="40"/></a>
-  <a href="https://developer.android.com/studio?hl=it" target="blank"><img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/1024px-Android_Studio_Logo_2024.svg.png" alt="Android Studio" height="40"/></a>
+  <a href="https://developer.android.com/studio?hl=it" target="blank"><img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/150px-Android_Studio_icon_%282023%29.svg.png" alt="Android Studio" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Figma" target="blank"><img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/120px-Figma-logo.svg.png" alt="Figma" height="40"/></a>
 
 </details>
