@@ -1,74 +1,47 @@
-# ♠️ Gamessmile here!
+# ♠️ Gamessmile | Santo Alessandro Sciacca
 
-**`Another day, Another missing semicolon`**
+`Another day, Another missing semicolon`
 
-Hi! I'm Alessandro, a programmer who..PROGRAMS! I love working on something that sets me a high level of challenge! I love to complicate my life in order to make the code unique with an easily readable main! I am currently studying computer science at the <a href=http://web.dmi.unict.it/corsi/l-31>University of Catania</a> and I am ready for new challenges.
-<br><br>
+---
 
-<details>
-<summary>📖What am I studying right now?</summary>
- <br>
- <ul>
-     <li>🔢 <a href="https://www.youmath.it/lezioni/analisi-matematica.html" target="blank">Analisi 1</a></li>
-     <li>🔢² <a href="https://www.youmath.it/lezioni/analisi-due.html" target="blank">Analisi 2</a></li>
-     <li>⌨️ <a href="https://web.dmi.unict.it/corsi/l-31/insegnamenti?seuid=6E4255BA-E079-4B6E-B8BC-879CC85E2B36" target="blank">Algoritmi e Laboratorio</a></li>
-     <li>🌐 <a href="https://web.dmi.unict.it/corsi/l-31/insegnamenti/?cod=6803" target="blank">Reti di calcolatori</a></li>
- </ul>
-</details>
+### 👨‍💻 About Me
+Born in 2003, I'm a Computer Science student at the **University of Catania**.
+I’m a programmer who enjoys challenges and problem-solving.
+I like "getting my hands dirty" with code, whether it’s optimizing a SQL query, designing a logical user experience, or structuring a back-end.
+My current goal is to bridge the gap between strong academic theory and clean, practical software solutions.
 
+- 🎓 **Student** @ [UniCT - DMI](http://web.dmi.unict.it/corsi/l-31)
+- 🛠️ **Current focus:** Academic projects and study
 
+---
 
-<details><summary>💠Most used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamessmile&show_icons=true&theme=radical"></img>
-</details>
+### 🛠️ Tech Stack & Skills
 
-<details>
-<summary>🖥️Programming Languages</summary>
- <br>
-<p align= "left">
- <a href="https://it.wikipedia.org/wiki/C_(linguaggio_di_programmazione)" target="blank"><img align=center src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40" /></a>
- <a href="https://it.wikipedia.org/wiki/C_sharp" target="blank"><img align=center src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" height="40" /></a>
- <a href="https://it.wikipedia.org/wiki/C%2B%2B" target="blank"><img align=center src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="40" /></a>
- <a href="https://it.wikipedia.org/wiki/java" target="blank"><img align=center src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" height="40" /></a>
- <a href="https://processing.org/" target="blank"><img align=center src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="Processing" height="40" /></a>
- <a href="https://it.wikipedia.org/wiki/Structured_Query_Language" target="blank"><img align=center src="https://cdn-icons-png.flaticon.com/512/16781/16781152.png" alt="SQL" height="40"/></a>
-</p>
-</details>
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Software** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-808080?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Front-End & UX/UI** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **DB & Dev Tools** | ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
+| **Database Deep-dive** | ![Data Analysis](https://img.shields.io/badge/Data_Analysis-00b4ab?style=flat-square) ![Triggers](https://img.shields.io/badge/Triggers-e38c00?style=flat-square) ![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-e38c00?style=flat-square) |
+| **Languages** | ![Italian](https://img.shields.io/badge/Italian-Native-333333?style=flat-square) ![English](https://img.shields.io/badge/English-Professional-333333?style=flat-square) ![German](https://img.shields.io/badge/German-Learning-333333?style=flat-square) |
 
-<details>
-<summary>☀️ Front End</summary>
-<p align= "left">
-  <a href="https://it.wikipedia.org/wiki/HTML" target="blank"><img align=center src="https://cdn-icons-png.flaticon.com/512/136/136528.png" alt="HTML" height="40"/></a>
-  <a href="https://it.wikipedia.org/wiki/CSS" target="blank"><img align=center src="https://cdn-icons-png.flaticon.com/512/136/136527.png" alt="CSS" height="40" /></a>
-  <a href="https://it.wikipedia.org/wiki/JavaScript" target="blank"><img align=center src="https://cdn-icons-png.flaticon.com/512/136/136530.png" alt="JavaScript" height="40" /></a>
-</details>
+---
 
-<details>
-<summary>🌑 Back End</summary>
-<p align= "left">
-  <a href="https://it.wikipedia.org/wiki/Node.js" target="blank"><img align=center src="https://cdn-icons-png.flaticon.com/512/15484/15484303.png" alt="NODE.JS" height="40"/></a>
-
-</details>
-
-<details>
-<summary>🛠️ Tools</summary>
-<p align= "left">
-  <a href="https://visualstudio.microsoft.com/it/" target="blank"><img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40"/></a>
-  <a href="https://github.com/" target="blank"><img align=center src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="40"/></a>
-  <a href="https://developer.android.com/studio?hl=it" target="blank"><img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/1024px-Android_Studio_Logo_2024.svg.png" alt="Android Studio" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Figma" target="blank"><img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/120px-Figma-logo.svg.png" alt="Figma" height="40"/></a>
-
-</details>
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4le4a9o9acrcyandrfkxl06ko&count=1)
-<br>
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
+<p align="left">
+  <a href="https://gamessmile.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-121212?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/santo-alessandro-sciacca/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:santoalessandrosciacca@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-<hr>
-
-<p align="right"> <img width="100" src="https://komarev.com/ghpvc/?username=gamessmile&label=Profile%20views&color=a926d9&style=for-the-badge" alt="gamessmile" /> </p>
-
-
-
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=gamessmile&label=Profile%20views&color=a926d9&style=flat-square" alt="Views">
+</p>
